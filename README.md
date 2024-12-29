@@ -50,18 +50,18 @@ This project aims to analyze data on inmate and officer cases and deaths within 
    This page delves into the data on deaths and cases, broken down by counties and facility types.  
 
 - **Key Metrics by County**:  
-   1. Highest inmate cases: Yuma County (2,175 cases).  
-   2. Highest inmate deaths: Union County (62 deaths).  
+   1- Highest inmate cases: Yuma County (2,175 cases).  
+   2- Highest inmate deaths: Union County (62 deaths).  
 
 - **Breakdown by Facility Type**:  
    - State-run facilities and local jails account for the majority of cases and deaths.  
 
 - **Visual Elements**:  
-   1. Bar Charts: Highlighting top counties for inmate cases and deaths.  
-   2. Line Charts: Depicting trends in officer cases and deaths by facility type.  
+   1- Bar Charts: Highlighting top counties for inmate cases and deaths.  
+   2- Line Charts: Depicting trends in officer cases and deaths by facility type.  
 
 - **Insights**:  
-   1. State and local jails remain high-risk areas requiring focused interventions.  
+   1- State and local jails remain high-risk areas requiring focused interventions.  
 
 ---
 
@@ -70,12 +70,12 @@ This project aims to analyze data on inmate and officer cases and deaths within 
    This page focuses on comparing trends in population, cases, and deaths across various facility types.  
 
 - **Visual Elements**:  
-   1. Bar Charts: Distribution of the latest inmate population by facility type.  
-   2. Gauges: Comparing total deaths and total cases for relative insights.  
+   1- Bar Charts: Distribution of the latest inmate population by facility type.  
+   2- Gauges: Comparing total deaths and total cases for relative insights.  
 
 - **Insights**:  
-   1. State prisons and larger facilities show significant discrepancies between population sizes, cases, and deaths.  
-   2. Juvenile detention centers report minimal cases and deaths, reflecting a lower risk profile.  
+   1- State prisons and larger facilities show significant discrepancies between population sizes, cases, and deaths.  
+   2- Juvenile detention centers report minimal cases and deaths, reflecting a lower risk profile.  
 
 ---
 
@@ -84,12 +84,12 @@ This project aims to analyze data on inmate and officer cases and deaths within 
    This page provides in-depth analysis with visual comparisons between population sizes, cases, and deaths.  
 
 - **Visual Elements**:  
-   1. Pie Charts: Demonstrating proportional relationships between populations, cases, and deaths.  
-   2. Bar Charts: Showing maximum inmate population in 2020 by facility type.  
+   1- Pie Charts: Demonstrating proportional relationships between populations, cases, and deaths.  
+   2- Bar Charts: Showing maximum inmate population in 2020 by facility type.  
 
 - **Insights**:  
-   1. State prisons represent the largest population and most cases, making them a priority for interventions.  
-   2. Juvenile detention centers demonstrate successful management with low figures compared to other facilities.  
+   1- State prisons represent the largest population and most cases, making them a priority for interventions.  
+   2- Juvenile detention centers demonstrate successful management with low figures compared to other facilities.  
 
 ---
 
@@ -101,7 +101,7 @@ This project aims to analyze data on inmate and officer cases and deaths within 
 3. Facility Insights:  
    - State-run facilities emerge as hotspots for cases and deaths.  
 
----
+
 
 ##  Expected Outcomes  
 1. Improved allocation of resources to high-risk facilities.  
