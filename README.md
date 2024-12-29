@@ -30,18 +30,18 @@ This project aims to analyze data on inmate and officer cases and deaths within 
    This page provides a general overview of the key metrics, offering a high-level comparison of total cases and deaths.  
 
 - **Key Metrics**:  
-   1. Total Officer Deaths: 221  
-   2. Total Officer Cases: 112K  
-   3. Total Inmate Deaths: 2,595  
-   4. Total Inmate Cases: 526K  
+   1- Total Officer Deaths: 221  
+   2- Total Officer Cases: 112K  
+   3- Total Inmate Deaths: 2,595  
+   4- Total Inmate Cases: 526K  
 
 - **Visual Elements**:  
-   1. Donut Charts: Comparing maximum inmate population to cases and deaths.  
-   2. Bar Charts: Displaying the top 10 states with the highest inmate cases and deaths.  
+   1- Donut Charts: Comparing maximum inmate population to cases and deaths.  
+   2- Bar Charts: Displaying the top 10 states with the highest inmate cases and deaths.  
 
 - **Insights**:  
-   1. California leads in inmate cases with 75K.  
-   2. Texas records the highest inmate deaths at 277.  
+   1- California leads in inmate cases with 75K.  
+   2- Texas records the highest inmate deaths at 277.  
 
 ---
 
